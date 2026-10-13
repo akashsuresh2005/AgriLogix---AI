@@ -1,0 +1,18 @@
+booking_id,crop,tonnage,destination,route_quality,eta_hours,risk_status,shelf_days_calculated,status
+KA-03-EX-9211,Tomato,10.0,Bagalkot Horticulture Cold Store,State Highway,0.5 hours,MEDIUM RISK,2.069262060469885,In Transit
+KA-03-EX-8668,Potato,10.0,Mandya Sugar Crop Cold Hub,State Highway,1.3 hours,LOW RISK,3.287901693155036,In Transit
+KA-03-EX-9353,Brinjal,10.0,Chitradurga Agri Cold Hub,Rural / Unpaved Road,1.9 hours,HIGH RISK,0.0,In Transit
+KA-03-EX-9388,Capsicum,10.0,Bagalkot Horticulture Cold Store,National Highway,0.5 hours,HIGH RISK,1.4689701919805784,In Transit
+KA-03-EX-8766,Mango,10.0,HOPCOMS Cold Storage - KR Market,National Highway,0.5 hours,MEDIUM RISK,6.966925241826754,In Transit
+KA-03-EX-3405,Brinjal,12.0,Belagavi Agri Cold Store,Rural / Unpaved Road,0.5 hours,HIGH RISK,0.5946545673241195,In Transit
+KA-03-EX-6092,Potato,15.0,Chitradurga Agri Cold Hub,State Highway,1.9 hours,LOW RISK,4.607688196045492,In Transit
+KA-03-EX-2148,Banana,10.0,Gadag Horticulture Cold Hub,National Highway,2.9 hours,HIGH RISK,0.2447466503799491,In Transit
+KA-03-EX-1044,Banana,10.0,Gadag Horticulture Cold Hub,National Highway,2.9 hours,HIGH RISK,0.2447466503799491,In Transit
+KA-03-EX-5653,Banana,10.0,Gadag Horticulture Cold Hub,National Highway,2.9 hours,HIGH RISK,0.2447466503799491,In Transit
+KA-03-EX-3183,Mango,10.0,Bagalkot Horticulture Cold Store,Rural / Unpaved Road,0.5 hours,MEDIUM RISK,2.51433074707892,In Transit
+KA-03-EX-1450,Tomato,10.0,Ballari Cold Store,National Highway,0.5 hours,HIGH RISK,1.2469363433279936,In Transit
+KA-03-EX-6805,Potato,10.0,HOPCOMS Cold Storage - KR Market,State Highway,0.5 hours,LOW RISK,4.113092858897332,In Transit
+KA-03-EX-8034,Potato,12.0,Koppal Agri Cold Hub,State Highway,0.7 hours,MEDIUM RISK,5.2,In Transit
+KA-03-EX-2436,Spinach,10.0,Koppal Agri Cold Hub,Rural / Unpaved Road,0.5 hours,HIGH RISK,0.5670329249518827,In Transit
+KA-03-EX-4917,Onion,15.0,Udupi Seafood Cold Hub,State Highway,0.5 hours,LOW RISK,3.790333380018151,In Transit
+KA-03-EX-4656,Tomato,10.0,Karnataka State Warehousing Corporation - Kolar,National Highway,0.5 hours,MEDIUM RISK,5.2,In Transit

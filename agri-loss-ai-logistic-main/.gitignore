@@ -1,0 +1,49 @@
+# Environments & Virtual Envs
+.venv/
+venv/
+env/
+ENV/
+
+# Python Cache & Bytecode
+**/__pycache__/
+*.py[cod]
+*$py.class
+*.cpython-*.pyc
+
+# Local Environment Variables & Secrets
+.env
+.env.local
+.env.*.local
+*.pem
+*.key
+
+# Database Files & Backups
+*.db
+*.sqlite
+*.sqlite3
+postharvest.db
+*.db-journal
+*.db-wal
+*.db-shm
+
+# Frontend Dependencies & Production Builds
+node_modules/
+frontend/node_modules/
+dist/
+frontend/dist/
+.npm/
+
+# IDE & OS Files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Logs & Temporary Scratch Files
+*.log
+scratch/
+.system_generated/
+.translation_cache.json
+.session_cache.json
+powershell.bat
+assets/uploads/

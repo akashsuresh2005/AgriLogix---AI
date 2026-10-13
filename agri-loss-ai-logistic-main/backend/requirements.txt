@@ -1,0 +1,31 @@
+# FastAPI Application & Server
+fastapi>=0.115.0
+uvicorn[standard]>=0.30.0
+
+# Database & ORM
+sqlalchemy>=2.0.35
+psycopg2-binary>=2.9.9
+
+# Authentication & Security
+python-jose[cryptography]>=3.3.0
+passlib>=1.7.4
+bcrypt==3.2.0
+
+# Validation & Settings
+pydantic[email-validator]>=2.9.0
+pydantic-settings>=2.4.0
+python-multipart>=0.0.9
+python-dotenv>=1.0.0
+
+# HTTP & Communication
+httpx>=0.27.0
+requests>=2.32.0
+gTTS>=2.5.1
+
+# Machine Learning & Deep Learning Inference Pipeline
+numpy>=2.0.0
+joblib>=1.4.2
+scikit-learn>=1.5.0
+xgboost>=2.0.3
+tensorflow>=2.17.0
+Pillow>=10.0.0
