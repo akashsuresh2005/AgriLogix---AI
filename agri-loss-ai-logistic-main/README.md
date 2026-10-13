@@ -163,4 +163,7 @@ python test_load.py
 ## 👥 Contributors
 
 - **Bangalore Institute of Technology** — Department of Computer Science & Engineering
-- Major Project Team (2023–2027)
+- Akash S Kulkarni
+- Brijesh Gowda
+- Shubham S M
+- Likith G
